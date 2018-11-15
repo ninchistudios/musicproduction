@@ -32,7 +32,24 @@ Important to create a memorable melody.
 
 ### Arranging
 
-Try to include something surprising or unique in the arrangement to create interest. 
+Try to include something surprising or unique in the arrangement to create interest. Take the listener on a journey.
+
+The song should grab the listener in the first verse/chorus.
+
+Repetition is ok with a good arrangement. Even if the lyrics repeat, the arrangement should change and progress.
+
+Some techniques:
+
+* Vocal harmonies
+* Vocal effects (radio/lofi, ring mod, etc)
+* Percussion (bells, shakers etc)
+* Synth instruments
+* Strings and other orchestrals
+* Doubled/tripled vocals
+* Doubled guitars
+* Time signature or tempo changes
+* Key changes
+* Quiet/highly simplified sections
 
 ## Production & Recording
 
