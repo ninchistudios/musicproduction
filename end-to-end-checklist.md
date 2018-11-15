@@ -6,10 +6,15 @@ These steps may occur in any order depending on your process.
 
 ### Hook
 
+* The hook is one of the key ingredients of a memorable song
+* It's possible to start writing a song from one phrase or word that forms the hook
+
 ### Lyrics
 
-### Melody
+* Avoid cliche
+* Songwriting references e.g. [Writing Better Lyrics](https://www.amazon.com.au/Writing-Better-Lyrics-Pat-Pattison-ebook/dp/B008Y0XH1C)
 
+### Melody
 
 Consider a Mode that suits the feel of the song, e.g.
 
@@ -21,7 +26,13 @@ Consider a Mode that suits the feel of the song, e.g.
 * Aeolian (natural Minor): Sad, subdued. Suits most genres.
 * Locrian (natural Major with flat 2nd and flat 5th): Dissonant, unstable, tense. 
 
+Important to create a memorable melody.
+
 ### Chord Progression
+
+### Arranging
+
+Try to include something surprising or unique in the arrangement to create interest. 
 
 ## Production & Recording
 
