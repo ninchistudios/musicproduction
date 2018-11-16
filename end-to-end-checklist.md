@@ -74,7 +74,7 @@ Some techniques:
 
 ### Edit
 
-1. Gain stage to -18dBFS.
+1. Gain stage tracks to 0dB VU.
 2. Create composite track from all takes for each track.
 3. Clean up, tighten up and tune up each track.
 4. Tune vocals.
@@ -83,11 +83,22 @@ Some techniques:
 
 ### Mix
 
+#### Tips
+
 * Keep the Master bus clear so that the reference track is unaffected. Use a Mix Bus to glue the mix.
 
-. Bring in a reference track, set level to -18 dBFS VU.
-. Gain Stage check - the rough mix should sit about the same as 
-. Mix Drums and bass at -21 dBFS VU until 
+#### Gain Staging with Basic Bus Layout
+
+![Gain Staging with Basic Buses](https://github.com/ninchistudios/musicproduction/blob/master/gain-stage-buses.png "Gain Staging with Basic Buses")
+
+#### Mixing Steps
+
+. Create buses as above or as desired.
+. Gain stage as above or as desired.
+. Lowend Bus balance: with Drum Bus gained to -3dB VU on the kick, a simultaneous bass and kick hit should kiss 0dB VU on the Lowend Bus.
+. Add a very conservative glue compressor on the Mix Bus.
+. Bring in a professionally mastered reference track that sounds similar to what you're aiming for.
+. Gain down the reference track so it VUs at a similar level as the Mix Bus.
 . Volume and Pan
 . EQ
 
