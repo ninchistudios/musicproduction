@@ -36,7 +36,7 @@ Try to include something surprising or unique in the arrangement to create inter
 
 The song should grab the listener in the first verse/chorus.
 
-Repetition is ok with a good arrangement. Even if the lyrics repeat, the arrangement should change and progress.
+Repetition is ok with a good arrangement. Even if the lyrics repeat, the arrangement should change and progress and stay fresh and interesting from section to section.
 
 Some techniques:
 
@@ -86,6 +86,7 @@ Some techniques:
 #### General Tips
 
 * Keep the Master bus clear (meter only) so that the reference track is unaffected. Use a Mix Bus to glue the mix.
+* Generally mix at conservative volume, and check the mix at very low volume to make sure it still sounds ok. Volume distorts perception of the mix quality.
 
 #### Gain Staging with Basic Bus Layout
 
@@ -110,6 +111,34 @@ Some techniques:
 * Gate out drums between hits to create headroom/clarity and remove mud. 
 * Very high compression with a long release on a drum room mic can add a nice meat to a drum mix when blended judiciously. EQ may be needed after the compressor to cut anything annoying.
 * Cutting the close drums to room mic only during a song's quiet/low break can create good energy when the break ends.
+* Reverb pre-delay can embiggen a snare and make it sound less unnatural by smoothing the decay wash.
+
+##### Bass Guitar
+
+* Compress bass to give consistent volume and punch
+* Subtle bass saturation/distortion on a sidechain and blended in will fatten up a bassline. Reduce lowend freqs on the sidechain as it gets dirtier - emphasise mids.
+
+##### Piano/Keys
+
+* Wide stereo keys are great for keys/vocal heavy music, but the more complex the mix, the more you probably need keys in mono so they have space in the mix.
+
+##### Vocals
+
+* Sidechain and pan a 1/4 note delay with a low pass filter to give a nice space and ambience without a washy reverb
+* Hard pan widened doubled harmonies to add huge presence
+* Vocal stutter on a long drawn out phrase by slicing (e.g. on 16ths/32nds) and muting.
+* Telephone/lofi vocals with EQ with low+high pass filters, and boost the nice midtone. Maybe use on a delay.
+* De-ess every vocal to remove annoying sibilance. 
+
+##### Automation
+
+* Judiciously mute tracks when they're not adding something that's needed
+
+##### Panning
+
+* Kick/snare/bass/vocal in the centre
+* you can smear/widen a part left and right by sidechaining with a < 30ms delay panned opposite
+* Check the mix in mono to verify it will sound ok in the real world. Correct lost parts with volume and EQ.
 
 ##### EQ
 
