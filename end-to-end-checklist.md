@@ -85,7 +85,7 @@ Some techniques:
 
 #### Tips
 
-* Keep the Master bus clear so that the reference track is unaffected. Use a Mix Bus to glue the mix.
+* Keep the Master bus clear (meter only) so that the reference track is unaffected. Use a Mix Bus to glue the mix.
 
 #### Gain Staging with Basic Bus Layout
 
@@ -96,11 +96,19 @@ Some techniques:
 . Create buses as above or as desired.
 . Gain stage as above or as desired.
 . Lowend Bus balance: with Drum Bus gained to -3dB VU on the kick, a simultaneous bass and kick hit should kiss 0dB VU on the Lowend Bus.
-. Add a very conservative glue compressor on the Mix Bus.
+. Add a very conservative glue compressor/reverb on the Mix Bus.
 . Bring in a professionally mastered reference track that sounds similar to what you're aiming for.
 . Gain down the reference track so it VUs at a similar level as the Mix Bus.
-. Volume and Pan
-. EQ
+. Volume and Pan TODO
+
+##### Drums
+
+* Use a signal generator, gated from the specific drum track, to add meat to a drum. ~50Hz works ok for a kick. e.g. Tone Gate in Reaper.
+* Tape saturation can sound great on drums to give them a warm compression.
+
+##### EQ
+
+* Consider a light High Pass Filter on every track to remove mud. If you can notice the effect thinning the mix, it's too much.
 
 ## Mastering
 
