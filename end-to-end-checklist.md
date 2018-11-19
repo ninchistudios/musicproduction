@@ -140,6 +140,13 @@ Some techniques:
 * you can smear/widen a part left and right by sidechaining with a < 30ms delay panned opposite
 * Check the mix in mono to verify it will sound ok in the real world. Correct lost parts with volume and EQ.
 
+##### Volume
+
+* Ride faders to emphasise different parts or e.g. stop a vocal note/phrase being lost under instruments.
+* Work in 3dB steps to make audible differences.
+* Automate drum overheads up during more energetic parts
+
+
 ##### EQ
 
 * Consider a light High Pass Filter on every track to remove mud. If you can notice the effect thinning the mix, it's too much.
