@@ -83,7 +83,7 @@ Some techniques:
 
 ### Mix
 
-#### Tips
+#### General Tips
 
 * Keep the Master bus clear (meter only) so that the reference track is unaffected. Use a Mix Bus to glue the mix.
 
@@ -91,7 +91,7 @@ Some techniques:
 
 ![Gain Staging with Basic Buses](https://github.com/ninchistudios/musicproduction/blob/master/gain-stage-buses.png "Gain Staging with Basic Buses")
 
-#### Mixing Steps
+#### Key Mixing Steps
 
 . Create buses as above or as desired.
 . Gain stage as above or as desired.
@@ -101,10 +101,15 @@ Some techniques:
 . Gain down the reference track so it VUs at a similar level as the Mix Bus.
 . Volume and Pan TODO
 
+#### Specific Track/Effect Mixing Tips
+
 ##### Drums
 
 * Use a signal generator, gated from the specific drum track, to add meat to a drum. ~50Hz works ok for a kick. e.g. Tone Gate in Reaper.
 * Tape saturation can sound great on drums to give them a warm compression.
+* Gate out drums between hits to create headroom/clarity and remove mud. 
+* Very high compression with a long release on a drum room mic can add a nice meat to a drum mix when blended judiciously. EQ may be needed after the compressor to cut anything annoying.
+* Cutting the close drums to room mic only during a song's quiet/low break can create good energy when the break ends.
 
 ##### EQ
 
