@@ -59,6 +59,7 @@ Some techniques:
 * Lay down final MIDI arrangements if possible rather than placeholder. 
 * Record MIDI notes with instruments (MIDI keys/pads/drums etc) rather than drawing notes if possible to humanise.
 * Watch mic bleed from ambient sound and/or headphones when recording. Closed back cans preferred for vocalists.
+* 3:1 rule for multi-micing: the 2nd mic should be 3x the distance from the 1st mic as the 1st mic is from the source. This helps prevent phase issues.
 
 ### Basic Order for Rock
 
