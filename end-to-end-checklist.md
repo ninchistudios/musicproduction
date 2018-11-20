@@ -133,6 +133,7 @@ Some techniques:
 ##### Automation
 
 * Judiciously mute tracks when they're not adding something that's needed
+* Automate the fader as an EQ before tweaking specific EQ
 
 ##### Panning
 
@@ -145,7 +146,6 @@ Some techniques:
 * Ride faders to emphasise different parts or e.g. stop a vocal note/phrase being lost under instruments.
 * Work in 3dB steps to make audible differences.
 * Automate drum overheads up during more energetic parts
-
 
 ##### EQ
 
