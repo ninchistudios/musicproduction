@@ -65,7 +65,7 @@ Some techniques:
 
 1. click track at target tempo
 2. Rough simple take to the click track for arrangement reference
-3. Percussion
+3. Bass/Percussion
 4. Vocals
 5. Rhythm instruments
 6. Lead instruments
@@ -88,6 +88,8 @@ Some techniques:
 
 * Keep the Master bus clear (meter only) so that the reference track is unaffected. Use a Mix Bus to glue the mix.
 * Generally mix at conservative volume, and check the mix at very low volume to make sure it still sounds ok. Volume distorts perception of the mix quality.
+* Consider mixing the most important (e.g. the big energetic section, final chorus etc) section first and taking the rest of the mix from that.
+* Mix the most important instrument - the one that most defines the song - first.
 
 #### Gain Staging with Basic Bus Layout
 
@@ -113,6 +115,7 @@ Some techniques:
 * Very high compression with a long release on a drum room mic can add a nice meat to a drum mix when blended judiciously. EQ may be needed after the compressor to cut anything annoying.
 * Cutting the close drums to room mic only during a song's quiet/low break can create good energy when the break ends.
 * Reverb pre-delay can embiggen a snare and make it sound less unnatural by smoothing the decay wash.
+* Check phase issues using monitors (not cans) and/or summing to mono
 
 ##### Bass Guitar
 
@@ -151,6 +154,8 @@ Some techniques:
 ##### EQ
 
 * Consider a light High Pass Filter on every track to remove mud. If you can notice the effect thinning the mix, it's too much.
+* EQ in mono to better separate frequencies. Not everyone will listen in stereo.
+* Cut (subtractive EQ) rather than boost. Removes rather than boosts noise and adds headroom. Forces you to remove the bad rather than masking the bad with louder goods.
 
 ## Mastering
 
