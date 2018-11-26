@@ -90,6 +90,7 @@ Some techniques:
 * Generally mix at conservative volume, and check the mix at very low volume to make sure it still sounds ok. Volume distorts perception of the mix quality.
 * Consider mixing the most important (e.g. the big energetic section, final chorus etc) section first and taking the rest of the mix from that.
 * Mix the most important instrument - the one that most defines the song - first.
+* Sidechaining a track with extreme EQ/compression creates the ability to blend that to taste rather than just straight effects on the track. 
 
 #### Gain Staging with Basic Bus Layout
 
@@ -97,7 +98,7 @@ Some techniques:
 
 #### Key Mixing Steps
 
-* Create buses as above or as desired.
+* Create stereo buses as above or as desired.
 * Gain stage as above or as desired.
 * Lowend Bus balance: with Drum Bus gained to -3dB VU on the kick, a simultaneous bass and kick hit should kiss 0dB VU on the Lowend Bus.
 * Add a very conservative glue compressor/reverb on the Mix Bus.
@@ -123,7 +124,12 @@ Some techniques:
 
 * Compress bass to give consistent volume and punch
 * Subtle bass saturation/distortion on a sidechain and blended in will fatten up a bassline. Reduce lowend freqs on the sidechain as it gets dirtier - emphasise mids.
-* Try an amp/cab sim on DI or MIDI bass to improve tone
+* Try an amp/cab sim on DI or MIDI bass to improve tone.
+* Opposite EQ on kick & bass (~60Hz Bass boost + ~120Hz Bass cut) can help to separate them
+
+##### Acoustic Guitar
+
+* slow attack/fast release compression is best for acoustics. This allows the strums through but allows a subtle boosting of the ringout tone
 
 ##### Piano/Keys
 
@@ -159,6 +165,7 @@ Some techniques:
 * Consider a light High Pass Filter on every track to remove mud. If you can notice the effect thinning the mix, it's too much.
 * EQ in mono to better separate frequencies. Not everyone will listen in stereo.
 * Cut (subtractive EQ) rather than boost. Removes rather than boosts noise and adds headroom. Forces you to remove the bad rather than masking the bad with louder goods.
+* The "pain frequency" at 2k sounds great in the mix but can be uncomfortable for listeners. This is the range for vocal intelligibility - cut 2k from midrange instruments to leave room for vocals.
 
 ## Mastering
 
