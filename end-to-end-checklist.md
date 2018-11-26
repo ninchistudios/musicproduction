@@ -95,13 +95,13 @@ Some techniques:
 
 #### Key Mixing Steps
 
-. Create buses as above or as desired.
-. Gain stage as above or as desired.
-. Lowend Bus balance: with Drum Bus gained to -3dB VU on the kick, a simultaneous bass and kick hit should kiss 0dB VU on the Lowend Bus.
-. Add a very conservative glue compressor/reverb on the Mix Bus.
-. Bring in a professionally mastered reference track that sounds similar to what you're aiming for.
-. Gain down the reference track so it VUs at a similar level as the Mix Bus.
-. Volume and Pan TODO
+* Create buses as above or as desired.
+* Gain stage as above or as desired.
+* Lowend Bus balance: with Drum Bus gained to -3dB VU on the kick, a simultaneous bass and kick hit should kiss 0dB VU on the Lowend Bus.
+* Add a very conservative glue compressor/reverb on the Mix Bus.
+* Bring in a professionally mastered reference track that sounds similar to what you're aiming for.
+* Gain down the reference track so it VUs at a similar level as the Mix Bus.
+* Volume and Pan TODO
 
 #### Specific Track/Effect Mixing Tips
 
