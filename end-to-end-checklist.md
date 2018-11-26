@@ -116,11 +116,14 @@ Some techniques:
 * Cutting the close drums to room mic only during a song's quiet/low break can create good energy when the break ends.
 * Reverb pre-delay can embiggen a snare and make it sound less unnatural by smoothing the decay wash.
 * Check phase issues using monitors (not cans) and/or summing to mono
+* a wide-q notch cut at ~500Hz on the drum bus is often useful
+* Distortion or LoFi on a snare might help it sound better in the mix
 
 ##### Bass Guitar
 
 * Compress bass to give consistent volume and punch
 * Subtle bass saturation/distortion on a sidechain and blended in will fatten up a bassline. Reduce lowend freqs on the sidechain as it gets dirtier - emphasise mids.
+* Try an amp/cab sim on DI or MIDI bass to improve tone
 
 ##### Piano/Keys
 
