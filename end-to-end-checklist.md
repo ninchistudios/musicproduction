@@ -172,6 +172,8 @@ Some techniques:
 * Use a reference track
 * EQ & compression on the master mix to get it sounding right
 * Boost to 10-8 dB VU & limit clips
+* bounce to MP3 and listen on as many devices/speakers as possible
+* repeat
 
 ## Ancillary & Release
 
