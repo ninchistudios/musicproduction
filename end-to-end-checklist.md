@@ -75,7 +75,7 @@ Some techniques:
 
 ### Edit
 
-1. Gain stage tracks to 0dB VU.
+1. Gain stage tracks to 0dB VU (max -6dBFS peaks - reduce all gain staging the same if any tracks peak the mix over -6).
 2. Create composite track from all takes for each track.
 3. Clean up, tighten up and tune up each track.
 4. Tune vocals.
