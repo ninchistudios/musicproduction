@@ -169,7 +169,9 @@ Some techniques:
 
 ## Mastering
 
-TODO
+* Use a reference track
+* EQ & compression on the master mix to get it sounding right
+* Boost to 10-8 dB VU & limit clips
 
 ## Ancillary & Release
 
