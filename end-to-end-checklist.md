@@ -87,7 +87,7 @@ Some techniques:
 #### General Tips
 
 * Keep the Master bus clear (meter only) so that the reference track is unaffected. Use a Mix Bus to glue the mix.
-* Generally mix at conservative volume, and check the mix at very low volume to make sure it still sounds ok. Volume distorts perception of the mix quality.
+* Generally mix at conservative volume, and check the mix at very low volume to make sure it still sounds ok. Volume distorts perception of the mix quality. However, the mix should improve with volume rather than the opposite - people tend to turn up as a track gains their attention. 
 * Consider mixing the most important (e.g. the big energetic section, final chorus etc) section first and taking the rest of the mix from that.
 * Mix the most important instrument - the one that most defines the song - first.
 * Sidechaining a track with extreme EQ/compression creates the ability to blend that to taste rather than just straight effects on the track. 
@@ -166,10 +166,13 @@ Some techniques:
 * EQ in mono to better separate frequencies. Not everyone will listen in stereo.
 * Cut (subtractive EQ) rather than boost. Removes rather than boosts noise and adds headroom. Forces you to remove the bad rather than masking the bad with louder goods.
 * The "pain frequency" at 2k sounds great in the mix but can be uncomfortable for listeners. This is the range for vocal intelligibility - cut 2k from midrange instruments to leave room for vocals.
+* Be aware of [equal loudness curves](https://en.wikipedia.org/wiki/Equal-loudness_contour) and EQ accordingly. Human hearing is most sensitive at 2k-5k Hz.
+
+![Equal Loudness Contours](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Lindos1.svg/1336px-Lindos1.svg.png "Equal Loudness Contours")
 
 ## Mastering
 
-* Use a reference track
+* Use a reference track gained to the same level as your mix
 * EQ & compression on the master mix to get it sounding right
 * Boost to 10-8 dB VU & limit clips
 * bounce to MP3 and listen on as many devices/speakers as possible
