@@ -166,7 +166,7 @@ Some techniques:
 * EQ in mono to better separate frequencies. Not everyone will listen in stereo.
 * Cut (subtractive EQ) rather than boost. Removes rather than boosts noise and adds headroom. Forces you to remove the bad rather than masking the bad with louder goods.
 * The "pain frequency" at 2k sounds great in the mix but can be uncomfortable for listeners. This is the range for vocal intelligibility - cut 2k from midrange instruments to leave room for vocals.
-* Be aware of [equal loudness curves](https://en.wikipedia.org/wiki/Equal-loudness_contour) and EQ accordingly. Human hearing is most sensitive at 2k-5k Hz.
+* Be aware of [equal loudness curves](https://en.wikipedia.org/wiki/Equal-loudness_contour) and EQ accordingly. Human hearing is most sensitive at 2k-5k Hz and lowend particularly suffers at low volume, so balance the lowend in the mix at the loudest comfortable/normal volume and expect it to roll off at lower volume.
 
 ![Equal Loudness Contours](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Lindos1.svg/1336px-Lindos1.svg.png "Equal Loudness Contours")
 
