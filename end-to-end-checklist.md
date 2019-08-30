@@ -91,6 +91,7 @@ Some techniques:
 * Consider mixing the most important (e.g. the big energetic section, final chorus etc) section first and taking the rest of the mix from that.
 * Mix the most important instrument - the one that most defines the song - first.
 * Sidechaining a track with extreme EQ/compression creates the ability to blend that to taste rather than just straight effects on the track. 
+* Think about the space each instrument is in, and the emotion you want to convey. Large/small, low or high ceiling, wood/concrete/glass/fabric surfaces, is the instrument (incl vocals) excited/lonely/etc. 
 
 #### Gain Staging with Basic Bus Layout
 
