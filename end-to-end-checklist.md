@@ -103,7 +103,7 @@ Some techniques:
 * Gain stage as above or as desired.
 * Lowend Bus balance: with Drum Bus gained to -3dB VU on the kick, a simultaneous bass and kick hit should kiss 0dB VU on the Lowend Bus.
 * Add a very conservative glue compressor/reverb on the Mix Bus.
-* Bring in a professionally mastered reference track that sounds similar to what you're aiming for.
+* Bring in a professionally mastered track that sounds similar to what you're aiming for.
 * Gain down the reference track so it VUs at a similar level as the Mix Bus.
 * Volume and Pan TODO
 
@@ -143,6 +143,7 @@ Some techniques:
 * Vocal stutter on a long drawn out phrase by slicing (e.g. on 16ths/32nds) and muting.
 * Telephone/lofi vocals with EQ with low+high pass filters, and boost the nice midtone. Maybe use on a delay.
 * De-ess every vocal to remove annoying sibilance. 
+* Use a stereo slapback delay bus to make vocals more natural and less dry
 
 ##### Automation
 
@@ -160,6 +161,16 @@ Some techniques:
 * Ride faders to emphasise different parts or e.g. stop a vocal note/phrase being lost under instruments.
 * Work in 3dB steps to make audible differences.
 * Automate drum overheads up during more energetic parts
+* Ensure volume balance is right before you turn to effects
+
+##### Reverb
+
+* Use an ambient room reverb as a glue for tracks you want to push back in the mix, with lots of early reflections (which tell the ear how far away something is)
+* use a 2nd room reverb to bring specific tracks forward, with lots of late reflection (which tells the ear what the room sounds like)
+
+##### Compression
+
+* Try serial compression with multiple light compressors with different attack/release to separate transients and shaping compression
 
 ##### EQ
 
