@@ -84,6 +84,10 @@ Some techniques:
 
 ### Mix
 
+* save a mixdown before each session so that you can listen to how it was before you started
+* Balance > Fix > Enhance > Shape > Space
+* If it sounds good, it's good
+
 #### General Tips
 
 * Keep the Master bus clear (meter only) so that the reference track is unaffected. Use a Mix Bus to glue the mix.
@@ -92,6 +96,7 @@ Some techniques:
 * Mix the most important instrument - the one that most defines the song - first.
 * Sidechaining a track with extreme EQ/compression creates the ability to blend that to taste rather than just straight effects on the track. 
 * Think about the space each instrument is in, and the emotion you want to convey. Large/small, low or high ceiling, wood/concrete/glass/fabric surfaces, is the instrument (incl vocals) excited/lonely/etc. 
+* Don't solo instruments, you need to hear them in the context of the mix. Use a gain plugin instead.
 
 #### Gain Staging with Basic Bus Layout
 
@@ -143,7 +148,7 @@ Some techniques:
 * Vocal stutter on a long drawn out phrase by slicing (e.g. on 16ths/32nds) and muting.
 * Telephone/lofi vocals with EQ with low+high pass filters, and boost the nice midtone. Maybe use on a delay.
 * De-ess every vocal to remove annoying sibilance. 
-* Use a stereo slapback delay bus to make vocals more natural and less dry
+* Use a stereo slapback delay bus to make vocals more natural and less dry.
 
 ##### Automation
 
@@ -152,9 +157,11 @@ Some techniques:
 
 ##### Panning
 
-* Kick/snare/bass/vocal in the centre
-* you can smear/widen a part left and right by sidechaining with a < 30ms delay panned opposite
+* Remember that panning automation is almost as important as volume automation. Make it more stereo in the most important parts.
+* Kick/snare/bass/vocal in the centre.
+* you can smear/widen a part left and right by sidechaining with a < 30ms delay panned opposite.
 * Check the mix in mono to verify it will sound ok in the real world. Correct lost parts with volume and EQ.
+* Widen the drum overheads during the most excited parts of the track.
 
 ##### Volume
 
