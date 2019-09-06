@@ -148,7 +148,7 @@ Some techniques:
 * Vocal stutter on a long drawn out phrase by slicing (e.g. on 16ths/32nds) and muting.
 * Telephone/lofi vocals with EQ with low+high pass filters, and boost the nice midtone. Maybe use on a delay.
 * De-ess every vocal to remove annoying sibilance. 
-* Use a stereo slapback delay bus to make vocals more natural and less dry.
+* Use a stereo slapback delay bus to make vocals more natural and less dry. Low repetitions and small (up to 50ms) difference between L and R)
 
 ##### Automation
 
@@ -167,8 +167,8 @@ Some techniques:
 
 * Ride faders to emphasise different parts or e.g. stop a vocal note/phrase being lost under instruments.
 * Work in 3dB steps to make audible differences.
-* Automate drum overheads up during more energetic parts
-* Ensure volume balance is right before you turn to effects
+* Automate drum overheads up during more energetic parts.
+* Ensure volume balance is right before you turn to effects.
 
 ##### Reverb
 
