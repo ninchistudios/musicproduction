@@ -51,6 +51,15 @@ Some techniques:
 * Key changes
 * Quiet/highly simplified sections
 
+#### Better Basslines
+
+* Perfect 4th (5 semis) & 5th (7 semis) intervals can be boring & weak - break these up with a short/gracenote
+* Use motifs - a recognisable pattern
+* Use syncopation (accented off-beat notes) and/or polyrhythms
+* Uproot root notes (judiciously) as basslines with all root notes can be dull
+* Octaves can work on basslines, including uprooting roots
+* Use rests to both give a phrase a break, and build anticipation for the next section
+
 ## Production & Recording
 
 * Mic placement is more important than mic choice.
