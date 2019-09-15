@@ -59,6 +59,7 @@ Some techniques:
 * Uproot root notes (judiciously) as basslines with all root notes can be dull
 * Octaves can work on basslines, including uprooting roots
 * Use rests to both give a phrase a break, and build anticipation for the next section
+* Try chromatic runs from the tonic to the third
 
 ## Production & Recording
 
