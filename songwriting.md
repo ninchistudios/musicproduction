@@ -14,5 +14,11 @@
   * moods, modes, progressions, rhythms and melodies 
 * Write the song
 
+## Timing
+
+* First strong thematic element (ideally opening lyric) ASAP - don't do long intros as Spotify skip time is ~7s
+* First chorus within 30-45 sec
+* ~3m ideal
+
 ## Quick Tips
 
