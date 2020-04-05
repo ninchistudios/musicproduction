@@ -100,7 +100,7 @@ Some techniques:
 
 #### General Tips
 
-* Keep the Master bus clear (meter only) so that the reference track is unaffected. Use a Mix Bus to glue the mix.
+* Keep the Master bus clear (VU, SPAN and Loudness Meter only) so that the reference track is unaffected. Use a Mix Bus to glue the mix.
 * Generally mix at conservative volume, and check the mix at very low volume to make sure it still sounds ok. Volume distorts perception of the mix quality. However, the mix should improve with volume rather than the opposite - people tend to turn up as a track gains their attention. Equal loudness curves will show you what will gain more presence as the listener turns up (TLDR: Bass).
 * Consider mixing the most important (e.g. the big energetic section, final chorus etc) section first and taking the rest of the mix from that.
 * Mix the most important instrument - the one that most defines the song - first.
