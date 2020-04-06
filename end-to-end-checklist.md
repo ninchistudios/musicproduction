@@ -126,7 +126,7 @@ Some techniques:
 
 ##### Drums
 
-* Use a signal generator, gated from the specific drum track, to add meat to a drum. ~50Hz works ok for a kick. e.g. Tone Gate in Reaper.
+* Use a signal generator (e.g. Tone Gate in Reaper), gated from the specific drum track, to add meat to a drum. ~50Hz works ok for a kick or tune it to your kick & the song's tonic.
 * Tape saturation can sound great on drums to give them a warm compression.
 * Gate out drums between hits to create headroom/clarity and remove mud. 
 * Very high compression with a long release on a drum room mic can add a nice meat to a drum mix when blended judiciously. EQ may be needed after the compressor to cut anything annoying.
@@ -159,6 +159,7 @@ Some techniques:
 * Telephone/lofi vocals with EQ with low+high pass filters, and boost the nice midtone. Maybe use on a delay.
 * De-ess every vocal to remove annoying sibilance. 
 * Use a stereo slapback delay bus to make vocals more natural and less dry. Low repetitions and small (up to 50ms) difference between L and R)
+* Use a vocal only break to create great energy, e.g. https://youtu.be/kT8cX2-_7pQ?t=234
 
 ##### Automation
 
