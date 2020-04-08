@@ -2,7 +2,9 @@
 
 ## Songwriting & Arrangement
 
-These steps may occur in any order depending on your process.
+## Structure
+
+* Ensure the listener can instinctively know where they are in the arc of the song. Tell a story.
 
 ### Hook
 
@@ -92,11 +94,14 @@ Some techniques:
 5. Clean up breaths, smacks and plosives.
 6. Quantize instruments judiciously - don't overdo and dehumanise it. Drums/bass can take/need more quantization than others.
 
+* don't over-correct pitch/timing, it needs to be human.
+
 ### Mix
 
 * save a mixdown before each session so that you can listen to how it was before you started
 * Balance > Fix > Enhance > Shape > Space
-* If it sounds good, it's good
+* The instruments should sound right & professional. Use reference. "People come for the sound and stay for the story".
+* If it sounds radio ready, it's good
 
 #### General Tips
 
@@ -261,4 +266,19 @@ With no particular favouritism for specific vendors, this is just what I use or 
 
 ## Ancillary & Release
 
-TODO
+* Listen to your song as if someone else made it and you're critiquing it
+  * bad notes
+  * harmonies that aren't working
+  * weird transitions
+  * cheesy lyrics
+  * storytelling
+  * is it dramatic
+  * is the hook good
+  * can it be simplified or made stronger
+  * is there a good groove
+  * could it be more danceable
+  * are the lyrics meaningful
+  * do the sections connect
+  * how is the outro
+  * does the sound (not the lyrics) grab in the first 10 sec
+  * is there a chorus/hook inside 30-45 sec?
