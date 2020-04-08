@@ -200,6 +200,57 @@ Some techniques:
 
 ![Equal Loudness Contours](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Lindos1.svg/1336px-Lindos1.svg.png "Equal Loudness Contours")
 
+##### Specific Plugins
+
+With no particular favouritism for specific vendors, this is just what I use or have used.
+
+###### EQ/Dynamics
+
+* Airwindows Baxandall: simple bright/dark/bassy EQ
+* Airwindows Capacitor: high/lowpass EQ - great for isolating out high/low freqs
+* Airwindows Focus: Distorter that helps things poke out of the mix in ear-specific areas
+* Traktion #TEqualizer: graphical multiband EQ
+* Airwindows ClipOnly: controlless hard clip prevention on output/mix bus without harshness (use ClipOnly for more control)
+* Airwindows PurestGain: clean gain with zipper artifact smoothing - use as a noiseless gainstage
+* Airwindows NC-17: glue and loudenator
+
+###### Metering/Matering
+
+* TBProAudio mvMeter: VU
+* Youlean Loudness: loudness meter/mastering
+* Voxengo SPAN: Spectrum Analyser
+* Airwindows Monitoring: check a mix in various conditions
+
+###### DeEss/Noise
+* Airwindows DeBess: vocal de-esser
+* Cockos ReaGate: gate/ducking
+* Cockos ReaFIR: noise gate / dynamics - use on cheap condensers
+* Antares X-Noise: noise gate with learning algo
+
+###### Warmth
+
+* Airwindows Interstage: Controlless analogification, use on individual tracks and/or busses
+
+###### Reverb
+
+* Airwindows MV: Bloom (washy reverb) - use as primary reverb sitting a little back in the mix
+* Oril River: Reverb with lots of control
+
+###### Compression
+* Airwindows Pressure: Simple compressor
+* Klanghelm DC1A3/IVGI2/JMUCJr: general purpose compressors
+
+###### Instruments
+* Bitsonic Keyzone Classic (keys)
+* Reaktor/Komplete: Synths
+* Spitfire LABS: Synths
+* Toontrack EZDrummer: drums
+
+###### Cab/Amp Sim
+* Ignite NadIR: Impulse response host
+* IK Amplitube: Guitar amp/cab sim
+* PositiveGrid BIAS: Guitar amp/cab sim
+
 ## Mastering
 
 * Use a reference track gained to the same level as your mix
