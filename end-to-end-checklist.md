@@ -1,5 +1,7 @@
 # Music Production End to End Checklist
 
+Don't over-write and over-produce. One finished, released song is better than a hundred half-assed attempts.
+
 ## Songwriting & Arrangement
 
 ## Structure
@@ -255,6 +257,7 @@ With no particular favouritism for specific vendors, this is just what I use or 
 * Ignite NadIR: Impulse response host
 * IK Amplitube: Guitar amp/cab sim
 * PositiveGrid BIAS: Guitar amp/cab sim
+* Mercuriall Cab: cab sim/IR
 
 ## Mastering
 
