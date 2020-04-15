@@ -14,6 +14,12 @@ Don't over-write and over-produce. One finished, released song is better than a 
 * It's possible to start writing a song from one phrase or word that forms the hook
 * A statement? "F You". A Question? "Don't You Want Me Baby?" A Call to action? "Stay With Me"
 * Sometimes people don't want d&m - sometimes just have fun. An exclamation? "Whoaaaa Livin' On A Prayer"
+* Get to the chorus inside 30-45 sec
+* Try to keep the 1st/2nd chorus identical. Don't break them out of something they've just learned to sing.
+* Consider 2 choruses at the end, to drill the hook into them.
+* Let the main hook be the last thing they hear?
+* Contrast is good but don't change it to the point it's unrecognisable
+* Consider a contrasting chord just before a hook to draw attention to it
 
 ### Lyrics
 
@@ -34,7 +40,14 @@ Consider a Mode that suits the feel of the song, e.g.
 
 Important to create a memorable melody.
 
+* High freqs attract more attention, so consider melodic contour:
+  * Verse: sea level
+  * Pre-chorus/bridge: climbing
+  * Chorus: Mountaintop - amaze them
+
 ### Chord Progression
+
+* People love simple
 
 ### Arranging
 
