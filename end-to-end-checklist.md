@@ -4,14 +4,15 @@ Don't over-write and over-produce. One finished, released song is better than a 
 
 ## Songwriting & Arrangement
 
-## Structure
+### Structure
 
 * Ensure the listener can instinctively know where they are in the arc of the song. Tell a story.
 
-### Hook
+### Hook & Chorus
 
 * The hook is one of the key ingredients of a memorable song
 * It's possible to start writing a song from one phrase or word that forms the hook
+* A statement? "F You". A Question? "Don't You Want Me Baby?" A Call to action? "Stay With Me"
 
 ### Lyrics
 
