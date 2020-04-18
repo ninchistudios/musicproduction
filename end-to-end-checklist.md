@@ -232,7 +232,7 @@ With no particular favouritism for specific vendors, this is just what I use or 
 * Airwindows Capacitor: high/lowpass EQ - great for isolating out high/low freqs
 * Airwindows Focus: Distorter that helps things poke out of the mix in ear-specific areas
 * Traktion #TEqualizer: graphical multiband EQ
-* Airwindows ClipOnly: controlless hard clip prevention on output/mix bus without harshness (use ClipOnly for more control)
+* Airwindows ClipOnly: controlless hard clip prevention on output/mix bus without harshness
 * Airwindows PurestGain: clean gain with zipper artifact smoothing - use as a noiseless gainstage
 * Airwindows NC-17: glue and loudenator
 
