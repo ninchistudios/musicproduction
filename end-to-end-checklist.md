@@ -142,7 +142,7 @@ Some techniques:
 * Add a very conservative glue compressor/reverb on the Mix Bus.
 * Bring in a professionally mastered track that sounds similar to what you're aiming for.
 * Gain down the reference track so it VUs at a similar level as the Mix Bus.
-* Volume and Pan TODO
+* Volume and Pan as below
 
 #### Specific Track/Effect Mixing Tips
 
