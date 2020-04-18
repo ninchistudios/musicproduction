@@ -241,7 +241,7 @@ With no particular favouritism for specific vendors, this is just what I use or 
 * TBProAudio mvMeter: VU
 * Youlean Loudness: loudness meter/mastering
 * Voxengo SPAN: Spectrum Analyser
-* Airwindows Monitoring: check a mix in various conditions
+* Airwindows Monitoring: check a mix in various conditions (see detail further down)
 
 ###### DeEss/Noise
 * Airwindows DeBess: vocal de-esser
@@ -281,6 +281,25 @@ With no particular favouritism for specific vendors, this is just what I use or 
 * Boost to 10-8 dB VU & limit clips
 * bounce to MP3 and listen on as many devices/speakers as possible
 * repeat
+
+####### Airwindows Monitoring
+
+This has a lot of options to check mixes in various conditions:
+* Out24: check mix in 24bit
+* Out16: check mix in 16bit (CD ready)
+* Peaks Only: shows which things are louder to identify things that stick out too much
+* Slew Only: bass checking?
+* Subs Only: Check that the super lows aren't too crazy
+* Mono: self evident
+* Side: Side only for Mid/Side checks
+* Vinyl: EQ that roughly captures the range of vinyl, will roll off incompatible freqs
+* Aurat: cheap speaker sim (stereo)
+* MonoRat/MonoLat: cheal speaker sim right/left channel only
+* Phone: mono phone sim
+* Cans A: simulates monitor sound (crossover etc) while using headphones, probably the most accurate setting
+* Cans B: more obvious version of A
+* Cans C: even more obvious
+* Cans D: Really too much crossover, essentially a more listenable Peaks Only
 
 ## Ancillary & Release
 
