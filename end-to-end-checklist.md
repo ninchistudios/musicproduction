@@ -240,6 +240,11 @@ With no particular favouritism for specific vendors, this is just what I use or 
 * Airwindows ClipOnly: controlless hard clip prevention on output/mix bus without harshness
 * Airwindows PurestGain: clean gain with zipper artifact smoothing - use as a noiseless gainstage
 * Airwindows NC-17: glue and loudenator
+* JS Mid/Side Decoder: Simple Mid/Side correction
+
+###### Correction
+
+* Waves Tune: pitch correction
 
 ###### Metering/Matering
 
@@ -252,20 +257,22 @@ With no particular favouritism for specific vendors, this is just what I use or 
 * Airwindows DeBess: vocal de-esser
 * Cockos ReaGate: gate/ducking
 * Cockos ReaFIR: noise gate / dynamics - use on cheap condensers
-* Antares X-Noise: noise gate with learning algo
+* Waves Z-Noise: noise gate with learning algo
+* Waves Sibilance: vocal sibilance remover
 
 ###### Warmth
 
 * Airwindows Interstage: Controlless analogification, use on individual tracks and/or busses
 
-###### Reverb
+###### Reverb/Delay
 
 * Airwindows MV: Bloom (washy reverb) - use as primary reverb sitting a little back in the mix
 * Oril River: Reverb with lots of control
+* Traktion #TStereoDelay: Stereo Delay
 
 ###### Compression
 * Airwindows Pressure: Simple compressor
-* Klanghelm DC1A3/IVGI2/JMUCJr: general purpose compressors
+* Klanghelm DC1A3/IVGI2/MJUCJr: general purpose compressors
 
 ###### Instruments
 * Bitsonic Keyzone Classic (keys)
@@ -279,15 +286,7 @@ With no particular favouritism for specific vendors, this is just what I use or 
 * PositiveGrid BIAS: Guitar amp/cab sim
 * Mercuriall Cab: cab sim/IR
 
-## Mastering
-
-* Use a reference track gained to the same level as your mix
-* EQ & compression on the master mix to get it sounding right
-* Boost to 10-8 dB VU & limit clips
-* bounce to MP3 and listen on as many devices/speakers as possible
-* repeat
-
-####### Airwindows Monitoring
+###### Airwindows Monitoring
 
 This has a lot of options to check mixes in various conditions:
 * Out24: check mix in 24bit
@@ -305,6 +304,14 @@ This has a lot of options to check mixes in various conditions:
 * Cans B: more obvious version of A
 * Cans C: even more obvious
 * Cans D: Really too much crossover, essentially a more listenable Peaks Only
+
+## Mastering
+
+* Use a reference track gained to the same level as your mix
+* EQ & compression on the master mix to get it sounding right
+* Boost to 10-8 dB VU & limit clips
+* bounce to MP3 and listen on as many devices/speakers as possible
+* repeat
 
 ## Ancillary & Release
 
