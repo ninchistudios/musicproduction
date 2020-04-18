@@ -222,6 +222,11 @@ Some techniques:
 
 ![Equal Loudness Contours](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Lindos1.svg/1336px-Lindos1.svg.png "Equal Loudness Contours")
 
+* EQ charts such as this are very useful (courtesy of https://www.audio-issues.com/music-mixing/all-the-eq-information-youll-ever-need/)
+
+
+![EQ Chart](https://i.imgur.com/kZfzdtO.jpg "EQ Chart")
+
 ##### Specific Plugins
 
 With no particular favouritism for specific vendors, this is just what I use or have used.
