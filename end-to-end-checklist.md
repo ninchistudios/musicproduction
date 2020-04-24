@@ -100,6 +100,20 @@ Some techniques:
 6. Lead instruments
 7. Others
 
+### RR Process (specifically for away/studio time, but some relevance to home recording)
+
+1. Make a list of every track you want to record
+2. Know what gear you need for the whole recording
+3. Block out the time - 2 days for an EP, 4 days for an album if everything is prepped and rehearsed
+4. Set up session - click/metronome, tempo, tracks and routing, markers, scratch track
+5. Drums first - always - and multiple takes if using live drums
+6. Bass instruments next
+7. Core rhythm instruments - e.g. keys and guitars which carry the chord progression
+8. Lead instruments
+9. Lead vocals (3 full takes)
+10. Backing vocals to the best take
+11. other instruments
+
 ## Editing & Mixing
 
 ### Edit
