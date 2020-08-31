@@ -167,7 +167,7 @@ Some techniques:
 * Gate out drums between hits to create headroom/clarity and remove mud. 
 * Very high compression with a long release on a drum room mic can add a nice meat to a drum mix when blended judiciously. EQ may be needed after the compressor to cut anything annoying.
 * Cutting the close drums to room mic only during a song's quiet/low break can create good energy when the break ends.
-* Reverb pre-delay can embiggen a snare and make it sound less unnatural by smoothing the decay wash.
+* pre-delay can embiggen a snare and make it sound less unnatural by smoothing the decay wash.
 * Check phase issues using monitors (not cans) and/or summing to mono
 * a wide-q notch cut at ~500Hz on the drum bus is often useful
 * Distortion or LoFi on a snare might help it sound better in the mix
@@ -221,6 +221,7 @@ Some techniques:
 
 * Use an ambient room reverb as a glue for tracks you want to push back in the mix, with lots of early reflections (which tell the ear how far away something is)
 * use a 2nd room reverb to bring specific tracks forward, with lots of late reflection (which tells the ear what the room sounds like)
+* cut lows and highs from the reverb to clean up mud and splash
 
 ##### Compression
 
