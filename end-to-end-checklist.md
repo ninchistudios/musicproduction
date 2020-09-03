@@ -290,7 +290,7 @@ With no particular favouritism for specific vendors, this is just what I use or 
 
 ###### Compression
 * Airwindows Pressure: Simple compressor
-* Klanghelm DC1A3/IVGI2/MJUCJr: general purpose compressors
+* Klanghelm DC1A3 / IVGI2 (drum) / MJUCJr (vocal): general purpose compressors
 * Tokyo Dawn Records kotelnikov: transparent digital bus compressor
 
 ###### Instruments
