@@ -259,17 +259,20 @@ With no particular favouritism for specific vendors, this is just what I use or 
 * Airwindows PurestGain: clean gain with zipper artifact smoothing - use as a noiseless gainstage
 * Airwindows NC-17: glue and loudenator
 * JS Mid/Side Decoder: Simple Mid/Side correction
+* TDR Nova: dynamic EQ
 
 ###### Correction
 
 * Waves Tune: pitch correction
+* Graillon 2: voice changing
 
-###### Metering/Matering
+###### Metering/Mastering
 
 * TBProAudio mvMeter: VU
 * Youlean Loudness: loudness meter/mastering
 * Voxengo SPAN: Spectrum Analyser
 * Airwindows Monitoring: check a mix in various conditions (see detail further down)
+* ADHD Leveling: Tube Leveling
 
 ###### DeEss/Noise
 * Airwindows DeBess: vocal de-esser
@@ -290,20 +293,25 @@ With no particular favouritism for specific vendors, this is just what I use or 
 
 ###### Compression
 * Airwindows Pressure: Simple compressor
-* Klanghelm DC1A3 / IVGI2 (drum) / MJUCJr (vocal): general purpose compressors
-* Tokyo Dawn Records kotelnikov: transparent digital bus compressor
+* TDR kotelnikov: transparent digital bus compressor
 
 ###### Instruments
 * Bitsonic Keyzone Classic (keys)
 * Reaktor/Komplete: Synths
 * Spitfire LABS: Synths
+* Spitfire BBC Symphony Orchestra: orchestra
 * Toontrack EZDrummer: drums
+* Tyrell N6: Synth
+* Helm: Synth
+* DSK Saxophones: Tenor & Soprano Sax
+* VSCO2 Trumpet: Trumpet
 
 ###### Cab/Amp Sim
 * Ignite NadIR: Impulse response host
 * IK Amplitube: Guitar amp/cab sim
 * PositiveGrid BIAS: Guitar amp/cab sim
 * Mercuriall Cab: cab sim/IR
+* Native Instruments Guitar Rig 5: guitar amps/fx
 
 ###### Airwindows Monitoring
 
