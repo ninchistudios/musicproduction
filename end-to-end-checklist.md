@@ -131,6 +131,7 @@ Some techniques:
 
 * save a mixdown before each session so that you can listen to how it was before you started
 * Balance > Fix > Enhance > Shape > Space
+* Make sure the signal isn't clipping from one plugin to the next. This might not be visible on the master bus, but it will be audible.
 * The instruments should sound right & professional. Use reference. "People come for the sound and stay for the story".
 * If it sounds radio ready, it's good
 
@@ -140,6 +141,7 @@ Some techniques:
 * Generally mix at conservative volume, and check the mix at very low volume to make sure it still sounds ok. Volume distorts perception of the mix quality. However, the mix should improve with volume rather than the opposite - people tend to turn up as a track gains their attention. Equal loudness curves will show you what will gain more presence as the listener turns up (TLDR: Bass).
 * Consider mixing the most important (e.g. the big energetic section, final chorus etc) section first and taking the rest of the mix from that.
 * Mix the most important instrument - the one that most defines the song - first.
+* Automate volume before you think about compression
 * Sidechaining a track with extreme EQ/compression creates the ability to blend that to taste rather than just straight effects on the track. 
 * Think about the space each instrument is in, and the emotion you want to convey. Large/small, low or high ceiling, wood/concrete/glass/fabric surfaces, is the instrument (incl vocals) excited/lonely/etc. 
 * Don't solo instruments, you need to hear them in the context of the mix. Use a gain plugin instead.
