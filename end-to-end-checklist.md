@@ -198,6 +198,7 @@ Some techniques:
 * De-ess every vocal to remove annoying sibilance. 
 * Use a stereo slapback delay bus to make vocals more natural and less dry. Low repetitions and small (up to 50ms) difference between L and R)
 * Use a vocal only break to create great energy, e.g. https://youtu.be/kT8cX2-_7pQ?t=234
+* Use subtle vocal distortion, morphoder/whisper and octave down to add presence e.g. https://youtu.be/syudb_B1x_A?t=1094
 
 ##### Automation
 
@@ -227,7 +228,7 @@ Some techniques:
 
 ##### Compression
 
-* Try serial compression with multiple light compressors with different attack/release to separate transients and shaping compression
+* Try serial compression with multiple light compressors with different attack/release to separate transients and shape smoothly
 
 ##### EQ
 
@@ -290,6 +291,7 @@ With no particular favouritism for specific vendors, this is just what I use or 
 ###### Compression
 * Airwindows Pressure: Simple compressor
 * Klanghelm DC1A3/IVGI2/MJUCJr: general purpose compressors
+* Tokyo Dawn Records kotelnikov: transparent digital bus compressor
 
 ###### Instruments
 * Bitsonic Keyzone Classic (keys)
