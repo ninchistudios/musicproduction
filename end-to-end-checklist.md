@@ -284,6 +284,7 @@ With no particular favouritism for specific vendors, this is just what I use or 
 ###### Warmth
 
 * Airwindows Interstage: Controlless analogification, use on individual tracks and/or busses
+* Kazrog True Iron: analogue transformer warmth
 
 ###### Reverb/Delay
 
