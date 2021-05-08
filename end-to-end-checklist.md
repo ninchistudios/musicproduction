@@ -184,6 +184,11 @@ Some techniques:
 ##### Acoustic Guitar
 
 * slow attack/fast release compression is best for acoustics. This allows the strums through but allows a subtle boosting of the ringout tone
+* Multiple mics and/or doubling/tripling with LCR helps add sparkle and warmth
+
+##### Electric Guitar
+
+* Almost always double/triple LCR rhythm electrics. 
 
 ##### Piano/Keys
 
