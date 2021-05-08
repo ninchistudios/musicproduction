@@ -57,6 +57,10 @@ The song should grab the listener in the first verse/chorus, but don't give the 
 
 Repetition is ok with a good arrangement. Even if the lyrics repeat, the arrangement should change and progress and stay fresh and interesting from section to section.
 
+The vocal is the most restrictive element of the arrangement. Ensure that it's set for the vocalist's sweet spot, even if every other instrument needs to be transposed.
+
+![Vocal Map](https://i.imgur.com/MjjWiBh.jpg "Vocal Map")
+
 Some techniques:
 
 * Vocal harmonies
