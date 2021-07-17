@@ -97,12 +97,14 @@ Some techniques:
 ### Basic Order for Rock
 
 1. click track at target tempo
-2. Rough simple take to the click track for arrangement reference
-3. Bass/Percussion
-4. Vocals
-5. Rhythm instruments
-6. Lead instruments
-7. Others
+2. Section Markers
+3. Drums (not rough, but not final)
+4. Melody/key reference e.g. rough vocal or acoustic guitar
+5. Rhythm Guitar
+6. Bass
+7. Lead instruments
+8. Vocals
+11. Others
 
 ### RR Process (specifically for away/studio time, but some relevance to home recording)
 
