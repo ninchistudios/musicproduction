@@ -290,10 +290,11 @@ With no particular favouritism for specific vendors, this is just what I use or 
 * Waves Z-Noise: noise gate with learning algo
 * Waves Sibilance: vocal sibilance remover
 
-###### Warmth
+###### Warmth / Saturation
 
 * Airwindows Interstage: Controlless analogification, use on individual tracks and/or busses
 * Kazrog True Iron: analogue transformer warmth
+* Klanghelm IVGI2: subtle saturation
 
 ###### Reverb/Delay
 
@@ -304,6 +305,7 @@ With no particular favouritism for specific vendors, this is just what I use or 
 ###### Compression
 * Airwindows Pressure: Simple compressor
 * TDR kotelnikov: transparent digital bus compressor
+* Klanghelm MJUCjr
 
 ###### Instruments
 * Bitsonic Keyzone Classic (keys)
