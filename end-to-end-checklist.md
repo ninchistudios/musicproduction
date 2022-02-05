@@ -179,6 +179,9 @@ Some techniques:
 * Check phase issues using monitors (not cans) and/or summing to mono
 * a wide-q notch cut at ~500Hz on the drum bus is often useful
 * Distortion or LoFi on a snare might help it sound better in the mix
+* EQ Snares:
+
+![EQ For Snares](https://user-images.githubusercontent.com/7746755/152644785-b716eb30-f4fd-4e86-9a74-12613ec2a0e0.png)
 
 ##### Bass Guitar
 
