@@ -84,6 +84,12 @@ Some techniques:
 * Use rests to both give a phrase a break, and build anticipation for the next section
 * Try chromatic runs from the tonic to the third
 
+#### 80s Synthwave Style - https://www.youtube.com/watch?v=b11zvQ737rc
+
+* Polyphonic chords - use two notes on the left hand (maybe an octave) and four on the right, spread out for a classic 80s feel
+* Don't overcomplicate - 80s mixers were limited on tracks
+* The John Carpenter effect - simple droning bass, arp bass lines, simple diatonic melodies and synth fx hits/stabs
+
 ## Production & Recording
 
 * Mic placement is more important than mic choice.
