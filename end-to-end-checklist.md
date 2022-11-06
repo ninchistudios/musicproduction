@@ -90,6 +90,15 @@ Some techniques:
 * Don't overcomplicate - 80s mixers were limited on tracks
 * The John Carpenter effect - simple droning bass, arp bass lines, simple diatonic melodies and synth fx hits/stabs
 
+#### Better Chords
+
+* Revoice & use inversions
+* Add voices - e.g. the tonic and fifth
+* spend time picking the right sound/synth
+* try a different articulation - rather than whole notes, use dotted notes or other timings (noting the dynamics of the sound/synth)
+* layer different sounds
+* dress the chords up, e.g. with transients an octave up
+
 ## Production & Recording
 
 * Mic placement is more important than mic choice.
