@@ -73,6 +73,8 @@ Some techniques:
 * Time signature or tempo changes
 * Key changes
 * Quiet/highly simplified sections
+* hold instruments out to make them more impactful when they come in (e.g. bass on Radiohead's Airbag)
+* call and response with 2 instruments playing off each other
 
 #### Better Basslines
 
