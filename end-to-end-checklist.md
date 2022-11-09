@@ -48,16 +48,18 @@ Important to create a memorable melody.
 ### Chord Progression
 
 * People love simple
+* It's tempting to try complex and unique chord progressions, but people enjoy basic "four chords and the truth" as much as unique stuff
 
 ### Arranging
 
-Try to include something surprising or unique in the arrangement to create interest. Take the listener on a journey.
-
-The song should grab the listener in the first verse/chorus, but don't give the listener everything. There should be some buildup/freshness, or the song will disappoint over time.
-
-Repetition is ok with a good arrangement. Even if the lyrics repeat, the arrangement should change and progress and stay fresh and interesting from section to section.
-
-The vocal is the most restrictive element of the arrangement. Ensure that it's set for the vocalist's sweet spot, even if every other instrument needs to be transposed.
+* Start with the biggest chorus, and work back from there, stripping away elements
+* Try to include something surprising or unique in the arrangement to create interest. Take the listener on a journey.
+* The song should grab the listener in the first verse/chorus, but don't give the listener everything. There should be some buildup/freshness, or the song will disappoint over time.
+* Repetition is ok with a good arrangement. Even if the lyrics repeat, the arrangement should change and progress and stay fresh and interesting from section to section.
+* The vocal is the most restrictive element of the arrangement. Ensure that it's set for the vocalist's sweet spot, even if every other instrument needs to be transposed.
+* Rule of 3: no more than 3 melodic phrases at once to avoid crowded and confused tracks
+* use silences and instrument swaps
+* stack elements doing the same melody (e.g. vocal and lead) for a full effect
 
 ![Vocal Map](https://i.imgur.com/MjjWiBh.jpg "Vocal Map")
 
@@ -157,6 +159,7 @@ Some techniques:
 * Make sure the signal isn't clipping from one plugin to the next. This might not be visible on the master bus, but it will be audible.
 * The instruments should sound right & professional. Use reference. "People come for the sound and stay for the story".
 * If it sounds radio ready, it's good
+* If you can't hear it, delete it (noting poor hearing)
 
 #### General Tips
 
