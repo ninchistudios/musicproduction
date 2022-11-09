@@ -149,7 +149,7 @@ Some techniques:
 4. Tune vocals.
 5. Clean up breaths, smacks and plosives.
 6. Quantize instruments judiciously - don't overdo and dehumanise it. Drums/bass can take/need more quantization than others.
-
+* basic levelling against pink noise https://www.youtube.com/watch?v=u_iZQEBuyGQ
 * don't over-correct pitch/timing, it needs to be human.
 
 ### Mix
