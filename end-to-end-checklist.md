@@ -53,6 +53,8 @@ Important to create a memorable melody.
 ### Arranging
 
 * Start with the biggest chorus, and work back from there, stripping away elements
+* If possible, start with a rough vocal so that you have the flow of the song and energy
+* Double/triple keys, with octaves and a mix of instruments, delay & reverb (e.g. high airy notes with lots of verb) 
 * Try to include something surprising or unique in the arrangement to create interest. Take the listener on a journey.
 * The song should grab the listener in the first verse/chorus, but don't give the listener everything. There should be some buildup/freshness, or the song will disappoint over time.
 * Repetition is ok with a good arrangement. Even if the lyrics repeat, the arrangement should change and progress and stay fresh and interesting from section to section.
