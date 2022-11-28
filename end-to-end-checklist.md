@@ -145,7 +145,7 @@ Some techniques:
 
 ### Edit
 
-1. Gain stage tracks to 0dB VU (max -6dBFS peaks - reduce all gain staging the same if any tracks peak the mix over -6).
+1. Gain stage tracks to 0dB VU (max -6dBFS s - reduce all gain staging the same if any tracks peak the mix over -6).
 2. Create composite track from all takes for each track.
 3. Clean up, tighten up and tune up each track.
 4. Tune vocals.
@@ -376,6 +376,7 @@ This has a lot of options to check mixes in various conditions:
 * Use a reference track gained to the same level as your mix
 * EQ & compression on the master mix to get it sounding right
 * Boost to 10-8 dB VU & limit clips
+* Check the Spotify standards for export - e.g. -14 LUFS and -1db True Peak
 * bounce to MP3 and listen on as many devices/speakers as possible
 * repeat
 
